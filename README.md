@@ -42,7 +42,7 @@ Make sure Flutter is installed and added to your PATH.
 Open `lib/main.dart`, find:
 
 ```dart
-String apiKey = "f9f9c307030e05373c5bfc8d4dd43d1d";
+String apiKey = "Your_public_api_key";
 ```
 
 Replace the value with your own **OpenWeatherMap API key**.
